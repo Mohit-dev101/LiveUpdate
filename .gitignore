@@ -1,0 +1,8 @@
+node_modules
+frontend/.next
+frontend/out
+backend/.env
+frontend/.env
+frontend/.env.local
+backend/.data
+npm-debug.log*
